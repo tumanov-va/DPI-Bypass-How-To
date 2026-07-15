@@ -43,8 +43,10 @@ https://github.com/9seconds/mtg
 ##################   AmneziaWG 2.0   ####################
 
 AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки
+
 https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php
 
 AmneziaWG 2.0: от маскировки трафика к мимикрии
+
 https://habr.com/ru/companies/amnezia/articles/1014636/
 

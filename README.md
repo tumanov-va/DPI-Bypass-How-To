@@ -50,3 +50,7 @@ AmneziaWG 2.0: от маскировки трафика к мимикрии
 
 https://habr.com/ru/companies/amnezia/articles/1014636/
 
+Не доверяй чужому VPN: поднимаем self-hosted AmneziaWG с веб-панелью
+
+https://habr.com/ru/articles/1018548/
+

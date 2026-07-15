@@ -13,15 +13,20 @@ https://github.com/MHSanaei/3x-ui/wiki/Installation#install-in-one-line-recommen
 
 ##################   TELEGRAM   ####################
 
-# MTProto прокси для Telegram на Linux: пошаговая установка, systemd и подключение клиента: 
+MTProto прокси для Telegram на Linux: пошаговая установка, systemd и подключение клиента: 
 
 https://www.securitylab.ru/blog/personal/Bitshield/360198.php
 
 
-# Telegram MTProto Proxy: как работает, насколько безопасен и когда он реально нужен:
+Telegram MTProto Proxy: как работает, насколько безопасен и когда он реально нужен:
 
 https://www.securitylab.ru/blog/personal/Bitshield/360003.php
 
+
+##################   TELEGRAM PROXY   ####################
+
+# telegrammessenger/proxy
+https://hub.docker.com/r/telegrammessenger/proxy/
 
 
 https://usher2.club/articles/mtproto-proxy/
@@ -34,4 +39,12 @@ https://github.com/seriyps/mtproto_proxy#how-to-install---one-line-interactive-i
 
 https://github.com/9seconds/mtg
 
+
+##################   AmneziaWG 2.0   ####################
+
+AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки
+https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php
+
+AmneziaWG 2.0: от маскировки трафика к мимикрии
+https://habr.com/ru/companies/amnezia/articles/1014636/
 

@@ -11,4 +11,9 @@ https://github.com/MHSanaei/3x-ui/wiki/Installation#install-in-one-line-recommen
 
 
 
+##################   TELEGRAM   ####################
+
+MTProto прокси для Telegram на Linux: пошаговая установка, systemd и подключение клиента: 
+
+https://www.securitylab.ru/blog/personal/Bitshield/360198.php
 

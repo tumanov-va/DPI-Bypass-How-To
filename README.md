@@ -14,6 +14,41 @@ https://github.com/MHSanaei/3x-ui/wiki/Installation#install-in-one-line-recommen
 
 https://wiki.u1host.com/vpn-guide/3x-ui-rukovodstvo-po-ustanovke-i-ispolzovaniyu-paneli
 
+##################      Marzban      ####################
+
+https://github.com/Gozargah/Marzban
+
+Устанавливаем и настраиваем прокси-сервер Marzban
+
+https://habr.com/ru/articles/771892/
+
+https://gozargah.github.io/marzban/ru/
+
+Marzban - Единое решение для сопротивления цензуре
+
+Настройка VLESS в Marzban
+
+https://wiki.aeza.net/ru/guides/marzban/
+
+https://habr.com/ru/articles/982492/
+
+Marzban vs 3X-UI: Разбираемся в сортах панелей, чтобы твой туннель не загнулся
+
+
+##################   AmneziaWG 2.0   ####################
+
+AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки
+
+https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php
+
+AmneziaWG 2.0: от маскировки трафика к мимикрии
+
+https://habr.com/ru/companies/amnezia/articles/1014636/
+
+Не доверяй чужому VPN: поднимаем self-hosted AmneziaWG с веб-панелью
+
+https://habr.com/ru/articles/1018548/
+
 ##################   TELEGRAM   ####################
 
 MTProto прокси для Telegram на Linux: пошаговая установка, systemd и подключение клиента: 
@@ -42,18 +77,4 @@ https://github.com/seriyps/mtproto_proxy#how-to-install---one-line-interactive-i
 
 https://github.com/9seconds/mtg
 
-
-##################   AmneziaWG 2.0   ####################
-
-AmneziaWG 2.0: как работает полная мимикрия трафика и чем она лучше обычной маскировки
-
-https://www.securitylab.ru/blog/personal/Techno_Obzor/360094.php
-
-AmneziaWG 2.0: от маскировки трафика к мимикрии
-
-https://habr.com/ru/companies/amnezia/articles/1014636/
-
-Не доверяй чужому VPN: поднимаем self-hosted AmneziaWG с веб-панелью
-
-https://habr.com/ru/articles/1018548/
 

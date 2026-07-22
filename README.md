@@ -30,10 +30,9 @@ Marzban - Единое решение для сопротивления ценз
 
 https://wiki.aeza.net/ru/guides/marzban/
 
-https://habr.com/ru/articles/982492/
-
 Marzban vs 3X-UI: Разбираемся в сортах панелей, чтобы твой туннель не загнулся
 
+https://habr.com/ru/articles/982492/
 
 ##################   AmneziaWG 2.0   ####################
 

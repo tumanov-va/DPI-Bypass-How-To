@@ -9,7 +9,8 @@ DPI-Bypass How-To
 
 https://github.com/MHSanaei/3x-ui/wiki/Installation#install-in-one-line-recommended
 
-
+3X-UI – Руководство по установке и использованию панели
+https://wiki.u1host.com/vpn-guide/3x-ui-rukovodstvo-po-ustanovke-i-ispolzovaniyu-paneli
 
 ##################   TELEGRAM   ####################
 

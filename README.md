@@ -59,12 +59,15 @@ Telegram MTProto Proxy: как работает, насколько безопа
 
 https://www.securitylab.ru/blog/personal/Bitshield/360003.php
 
+MTProxy и WireGuard на одном 443 порту: SNI-routing через nginx stream
+
+https://codeby.net/threads/mtproxy-i-wireguard-na-odnom-443-portu-sni-routing-cherez-nginx-stream.92978/
 
 ##################   TELEGRAM PROXY   ####################
 
-# telegrammessenger/proxy
-https://hub.docker.com/r/telegrammessenger/proxy/
+telegrammessenger/proxy
 
+https://hub.docker.com/r/telegrammessenger/proxy/
 
 https://usher2.club/articles/mtproto-proxy/
 
